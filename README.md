@@ -15,6 +15,20 @@ Im building a portable datacenter in a box as I always wanted an Canonical Orang
 ### VMs
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/DC_IN_A_BOX.PNG)
 
+### APPS 
+Ansible 2.4 on VMs with Mesh
+<img width="1917" height="1024" alt="image" src="https://github.com/user-attachments/assets/140d4881-fd07-4937-9705-0f8cf9ea6c58" />
+
+### Single Node Openshift 4.19
+<img width="1870" height="937" alt="image" src="https://github.com/user-attachments/assets/105c3f8a-8bfc-42bf-b0ed-06155ddaacf4" />
+
+Ansible 2.5 on Openshift
+<img width="1870" height="937" alt="image" src="https://github.com/user-attachments/assets/45bd8513-a7f8-417e-88f8-fcc1c6e9275b" />
+
+<img width="1870" height="938" alt="image" src="https://github.com/user-attachments/assets/a52fe066-5df8-4b96-9e0c-4e18469ced12" />
+
+<img width="1870" height="937" alt="image" src="https://github.com/user-attachments/assets/e2a2a3ce-4ded-46b3-94c2-18c190f55375" />
+
 
 ## Components
 Keter 221474 Technicians Tool Box
