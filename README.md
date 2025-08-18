@@ -10,7 +10,7 @@ Im building a portable datacenter in a box as I always wanted an Canonical Orang
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade1.PNG)
 ### Hardware Layout
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/Hardware.png)
-### vCenter 
+### vCenter - CPU & Memory
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade3.PNG)
 ### VMs
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/DC_IN_A_BOX.PNG)
@@ -110,17 +110,6 @@ Katello - Version 1.21.0-RC5
 ## Upgrade
 
 Upgraded the portable Lab with a Lenovo ThinkCentre M90q Tiny Core i9-10900T 64GB DDR4 & 1 TB M.2 NVMe. It's enough to run an installer-provisioned infrastructure cluster of #OpenShift on #vSphere7.
-
-### New Layout
-
-![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade1.PNG)
-
-
-### Lenovo ThinkCentre M90q Tiny Core i9-10900T
-![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade2.PNG)
-
-### CPU & Memory
-![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade3.PNG)
 
 
 ## References
